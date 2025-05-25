@@ -1,273 +1,273 @@
- VC, Accelerator, or Partner...*
-1871
-20scoops
-468 Capital
-500 Startups
-8VC
-A16Z
-Accel Partners
-AfroTech
-AI
-AirTree Ventures
-Aleraa.in
-Algolia
-Altimeter Capital
-Altos Ventures
-Alumni Ventures
-Amaranthine
-Amity
-Amplify Partners
-Antler
-Anubix
-Arch Grants
-Arch Grants
-Archipelago Labs
-ATDC Georgia Tech
-ATP Fund
-AUGE-UCR
-Aurelia Ventures
-B Capital
-Backstage
-Bain Capital VC
-Başakşehir Living Lab (BLL)
-Basis Set Vntures
-BayStartUp
-BDC Capital
-Bdev Ventures
-Benhamou Global Ventures
-Berlin Founders Fund
-Bessemer Venture Partners
-Blackbird Ventures
-Bling Capital
-Block71
-Bloomberg Beta
-Boldstart
-boldstart ventures
-Booom.vc
-Boost VC
-BoxGroup
-Bright Labs Incubator
-BTOV
-Bufficorn Ventures
-Build Up Labs
-Builder’s Club
-Builder’s Club
-C3ihub IIT Kanpur
-Cardumen Capital
-CAVA Accelerator
-Chamaeleon
-Chapter One
-Cherry Ventures
-Communitech
-Concept VC
-Concrete Ventures
-Conversion Capital
-Cornell Tech / Runway
-Counterpoint Global (Morgan Stanley)
-Cowboy Ventures
-CSULB
-CultTech
-Danish Innovation Fund
-Darkmode.vc
-DCM
-Decibel
-DIFC Fintech Hive
-DIFC Innovation Hub
-Dig Ventures
-Digital Ocean's Hatch
-DiSH Accelerator
-District 3
-dlab
-DMS Accelerator
-DMZ
-Doubling
-Draper Associates
-DreamUp
-Emergence Capital
-Emerson Collective
-Entrepreneur First
-Entrepreneur Leadership Program of Austrian Startups
-F6S
-Female Founders Fund
-FIESTA
-First Cheque
-First Momentum Ventures
-FirstMark
-FirstMile Ventures
-FirstMinute
-Flagship Accelerator for Accelerating Asia
-Flex Capital
-ForumVC
-Founderly
-FounderPass
-Fractal Software
-Fusion
-Garage Technology Ventures
-Gateway Excellence Startup Center
-German Accelerator
-GGV
-Graduate Entrepreneur
-Greylock
-Grid110
-Grit Capital Partners
-GrowValley
-Hearst Labs
-Heavybit
-Hexa
-HF0
-Highline Beta
-HubIN
-IGNIA
-IIT Bombay E-Summit 2023
-In5 Tech
-Incubate
-INCUBATE
-Index Ventures
-Innofounder
-InnovationQuarter
-iNovia Capital
-Invest Ottawa
-IVP
-January Ventures
-jap
-Jio
-JoinSecret
-JuiceTank
-Jungle Ventures
-Kima Ventures
-Kleiner Perkins
-Komunite
-KU Innovation Park
-Lanzadera
-Launch Academy
-Launch Africa
-LaunchCo
-LaunchVic
-LearnTechHub
-Lightspeed (India)
-Lightspeed Ventures
-LMU-IEC
-Logic Boost Labs
-Loyal VC
-Lux Capital
-Macdoch Ventures
-Macdoch Ventures
-Main Sequence
-Marathon Venture Capital
-MaRS startup program
-MassChallenge HealthTech
-Meet Ventures
-Menlo Venture Partners
-Mercury
-Meritech
-MMC
-Mosaic Ventures
-Mozilla Builders
-Nanosek
-Nauta Capital
-NEA
-NewChip
-New Era VC
-Newtopia
-Norwest Venture Partners
-Nuclei
-Nvidia Inception
-NYU Future Labs
-OMERS Ventures
-On Deck
-Open Network Labs
-Oracle for Startups
-Overwolf
-Panache Ventures
-Paris-Dauphine
-Pear
-Pelion Ventures
-Pioneer
-Plug & Play
-PMV
-Primary VC
-Product Hunt Founder Club
-Quest Ventures
-Radix Grants Program
-Raion
-RBCx
-Referred by (include details in comments)
-RocketHub LaunchKit
-Root Ventures
-RSLP Ventures
-Runtime Ventures
-Runway (Cornell Tech Startup Program)
-Sampo
-Scale Venture Partners
-Schibsted Ventures
-Secways
-Seedcamp
-Sequoia Marketplace
-Shearwater
-SID Venture Partners
-Sifted Intelligence
-Signal Peak Ventures
-SignalFire
-Silverton Partners
-SKELAR
-Skip Capital
-SOSV
-South Park Commons
-Spartan Labs
-Sprout Fund VC
-Stackpass
-StandUp Ventures
-StartMate
-Startup Chile
-Startup Grind
-Startup Portugal
-Startup Reykjavik
-Startup Wise Guys
-StartupBootcamp
-StartX
-Station F
-StepStone (Greenspring)
-Stride.VC
-Sunflower Capital
-SVB
-Swiss Founders Fund
-Taco Stars
-Tampa Bay Wave
-Tech Istanbul
-TechCrunch Startup Battlefield
-Techfounders
-Techstars
-The Fringe Labs
-TheOneValley
-Threshold
-TiG Centre: Cyber Talent, Innovation and Growth Collaboration Centre
-TinySeed
-Tractor Ventures (in progress)
-Tribe Accelerator
-Two Small Fish Ventures
-U.S. Venture Partners
-UCI Cove
-Uncork Capital
-Union Square Ventures
-University of Toronto Entrepreneurship Centre
-Unreasonable Ventures
-Unshackled Ventures
-Unusual Ventures
-UP
-Velocity Accelerator
-Venrock
-Version One Ventures
-Vertex Ventures US
-Vina Capital Ventures
-Wayra
-Wischoff Ventures
-Workers Launchpad
-Workers Launchpad Finalist Round
-World Mini App
-WTIA
-Xpreneurs
-XRC Labs
-Y Combinator
-Yoonmin
-Z5
-Autre
+- VC, Accelerator, or Partner...*
+- 1871
+- 20scoops
+- 468 Capital
+- 500 Startups
+- 8VC
+- A16Z
+- Accel Partners
+- AfroTech
+- AI
+- AirTree Ventures
+- Aleraa.in
+- Algolia
+- Altimeter Capital
+- Altos Ventures
+- Alumni Ventures
+- Amaranthine
+- Amity
+- Amplify Partners
+- Antler
+- Anubix
+- Arch Grants
+- Arch Grants
+- Archipelago Labs
+- ATDC Georgia Tech
+- ATP Fund
+- AUGE-UCR
+- Aurelia Ventures
+- B Capital
+- Backstage
+- Bain Capital VC
+- Başakşehir Living Lab (BLL)
+- Basis Set Vntures
+- BayStartUp
+- BDC Capital
+- Bdev Ventures
+- Benhamou Global Ventures
+- Berlin Founders Fund
+- Bessemer Venture Partners
+- Blackbird Ventures
+- Bling Capital
+- Block71
+- Bloomberg Beta
+- Boldstart
+- boldstart ventures
+- Booom.vc
+- Boost VC
+- BoxGroup
+- Bright Labs Incubator
+- BTOV
+- Bufficorn Ventures
+- Build Up Labs
+- Builder’s Club
+- Builder’s Club
+- C3ihub IIT Kanpur
+- Cardumen Capital
+- CAVA Accelerator
+- Chamaeleon
+- Chapter One
+- Cherry Ventures
+- Communitech
+- Concept VC
+- Concrete Ventures
+- Conversion Capital
+- Cornell Tech / Runway
+- Counterpoint Global (Morgan Stanley)
+- Cowboy Ventures
+- CSULB
+- CultTech
+- Danish Innovation Fund
+- Darkmode.vc
+- DCM
+- Decibel
+- DIFC Fintech Hive
+- DIFC Innovation Hub
+- Dig Ventures
+- Digital Ocean's Hatch
+- DiSH Accelerator
+- District 3
+- dlab
+- DMS Accelerator
+- DMZ
+- Doubling
+- Draper Associates
+- DreamUp
+- Emergence Capital
+- Emerson Collective
+- Entrepreneur First
+- Entrepreneur Leadership Program of Austrian Startups
+- F6S
+- Female Founders Fund
+- FIESTA
+- First Cheque
+- First Momentum Ventures
+- FirstMark
+- FirstMile Ventures
+- FirstMinute
+- Flagship Accelerator for Accelerating Asia
+- Flex Capital
+- ForumVC
+- Founderly
+- FounderPass
+- Fractal Software
+- Fusion
+- Garage Technology Ventures
+- Gateway Excellence Startup Center
+- German Accelerator
+- GGV
+- Graduate Entrepreneur
+- Greylock
+- Grid110
+- Grit Capital Partners
+- GrowValley
+- Hearst Labs
+- Heavybit
+- Hexa
+- HF0
+- Highline Beta
+- HubIN
+- IGNIA
+- IIT Bombay E-Summit 2023
+- In5 Tech
+- Incubate
+- INCUBATE
+- Index Ventures
+- Innofounder
+- InnovationQuarter
+- iNovia Capital
+- Invest Ottawa
+- IVP
+- January Ventures
+- jap
+- Jio
+- JoinSecret
+- JuiceTank
+- Jungle Ventures
+- Kima Ventures
+- Kleiner Perkins
+- Komunite
+- KU Innovation Park
+- Lanzadera
+- Launch Academy
+- Launch Africa
+- LaunchCo
+- LaunchVic
+- LearnTechHub
+- Lightspeed (India)
+- Lightspeed Ventures
+- LMU-IEC
+- Logic Boost Labs
+- Loyal VC
+- Lux Capital
+- Macdoch Ventures
+- Macdoch Ventures
+- Main Sequence
+- Marathon Venture Capital
+- MaRS startup program
+- MassChallenge HealthTech
+- Meet Ventures
+- Menlo Venture Partners
+- Mercury
+- Meritech
+- MMC
+- Mosaic Ventures
+- Mozilla Builders
+- Nanosek
+- Nauta Capital
+- NEA
+- NewChip
+- New Era VC
+- Newtopia
+- Norwest Venture Partners
+- Nuclei
+- Nvidia Inception
+- NYU Future Labs
+- OMERS Ventures
+- On Deck
+- Open Network Labs
+- Oracle for Startups
+- Overwolf
+- Panache Ventures
+- Paris-Dauphine
+- Pear
+- Pelion Ventures
+- Pioneer
+- Plug & Play
+- PMV
+- Primary VC
+- Product Hunt Founder Club
+- Quest Ventures
+- Radix Grants Program
+- Raion
+- RBCx
+- Referred by (include details in comments)
+- RocketHub LaunchKit
+- Root Ventures
+- RSLP Ventures
+- Runtime Ventures
+- Runway (Cornell Tech Startup Program)
+- Sampo
+- Scale Venture Partners
+- Schibsted Ventures
+- Secways
+- Seedcamp
+- Sequoia Marketplace
+- Shearwater
+- SID Venture Partners
+- Sifted Intelligence
+- Signal Peak Ventures
+- SignalFire
+- Silverton Partners
+- SKELAR
+- Skip Capital
+- SOSV
+- South Park Commons
+- Spartan Labs
+- Sprout Fund VC
+- Stackpass
+- StandUp Ventures
+- StartMate
+- Startup Chile
+- Startup Grind
+- Startup Portugal
+- Startup Reykjavik
+- Startup Wise Guys
+- StartupBootcamp
+- StartX
+- Station F
+- StepStone (Greenspring)
+- Stride.VC
+- Sunflower Capital
+- SVB
+- Swiss Founders Fund
+- Taco Stars
+- Tampa Bay Wave
+- Tech Istanbul
+- TechCrunch Startup Battlefield
+- Techfounders
+- Techstars
+- The Fringe Labs
+- TheOneValley
+- Threshold
+- TiG Centre: Cyber Talent, Innovation and Growth Collaboration Centre
+- TinySeed
+- Tractor Ventures (in progress)
+- Tribe Accelerator
+- Two Small Fish Ventures
+- U.S. Venture Partners
+- UCI Cove
+- Uncork Capital
+- Union Square Ventures
+- University of Toronto Entrepreneurship Centre
+- Unreasonable Ventures
+- Unshackled Ventures
+- Unusual Ventures
+- UP
+- Velocity Accelerator
+- Venrock
+- Version One Ventures
+- Vertex Ventures US
+- Vina Capital Ventures
+- Wayra
+- Wischoff Ventures
+- Workers Launchpad
+- Workers Launchpad Finalist Round
+- World Mini App
+- WTIA
+- Xpreneurs
+- XRC Labs
+- Y Combinator
+- Yoonmin
+- Z5
+- Autre
